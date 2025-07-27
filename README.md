@@ -384,7 +384,7 @@ Cada fase del pipeline está respaldada por literatura científica y ha sido val
 ### Supervisión Académica
 **Tecnológico de Monterrey**  
 📍 Monterrey, Nuevo León, México  
-🎓 Programa de Investigación Avanzada 2025
+
 
 ### Contribuciones y Reconocimientos
 Este trabajo se desarrolló como parte del proyecto de investigación **ARS2025**, enfocado en el desarrollo de metodologías avanzadas para el procesamiento de nubes de puntos 3D en aplicaciones de reconstrucción y análisis estructural.
