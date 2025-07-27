@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este repositorio contiene un **pipeline completo de 6 fases** para el procesamiento, análisis y reconstrucción de nubes de puntos 3D desarrollado como parte del proyecto **ARS2025** del Tecnológico de Monterrey. El sistema está específicamente optimizado para el procesamiento de modelos generados mediante **Gaussian Splatting** y estructuras orgánicas complejas como árboles.
+Este repositorio contiene un **pipeline completo de 6 fases** para el procesamiento, análisis y reconstrucción de nubes de puntos 3D desarrollado como parte del proyecto **LARS2025** del Tecnológico de Monterrey. El sistema está específicamente optimizado para el procesamiento de modelos generados mediante **Gaussian Splatting** y estructuras orgánicas complejas como árboles.
 
 ### 🎯 Características Principales
 
