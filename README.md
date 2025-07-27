@@ -1,4 +1,4 @@
-# ARS2025 Point Cloud Processing Pipeline 🌳
+# LARS2025 Point Cloud Processing Pipeline 🌳
 
 ## Descripción del Proyecto
 
